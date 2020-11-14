@@ -1,5 +1,6 @@
 # HP Pavilion 15 cs0101TX Hackintosh with OpenCore
 ## Overview
+![screenshot](https://www.dropbox.com/s/4hi30beqik5ciuf/Screen%20Shot%202020-11-15%20at%2002.09.00.png)
 - macOS version: Catalina 10.15.7
 - OpenCore version: 0.6.3
 ## Hardware Specifications
