@@ -32,5 +32,5 @@
 | External ports | 2 USB 3.1 Gen 1 (Data transfer only); 1 HDMI 1.4; 1 headphone/microphone combo; 1 USB 3.1 Type-C™ Gen 1 (Data Transfer Only); 1 RJ-45 | 
 ## Current issues
 - ~~Sleep: DarkWake from Normal Sleep [CDN] : due to XHC HDAS/ Using AC (Charge:0%)~~ Fixed.
-- ~~iMessages and FaceTime~~ Continuity services aren't working.
-- ~~HDMI (not tested yet)~~ Fixed.
+- ~~iMessages and FaceTime~~ Continuity services aren't working, waiting for a new version of AirportItlwm.
+- ~~HDMI (not tested yet)~~ Fixed. <details><summary>Fixed</summary>![screenshot](images/HDMI-working.jpg)</details>
