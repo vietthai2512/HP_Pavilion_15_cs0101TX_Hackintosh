@@ -7,7 +7,7 @@
 <details>
  <summary><strong>macOS Catalina</strong></summary>
  
-![screenshot](https://i.imgur.com/5txHbRU.png)
+![screenshot](images/Catalina-2020-11-25.png)
 
  </details>
  
