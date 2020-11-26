@@ -29,4 +29,4 @@
 ## Current issues
 - ~~Sleep: DarkWake from Normal Sleep [CDN] : due to XHC HDAS/ Using AC (Charge:0%)~~ Fixed.
 - ~~iMessages and FaceTime~~ Continuity services aren't working.
-- ~~HDMI (not tested yet)~~Fixed.
+- ~~HDMI (not tested yet)~~ Fixed.
