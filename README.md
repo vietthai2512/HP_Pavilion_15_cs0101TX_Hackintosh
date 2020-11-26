@@ -27,8 +27,6 @@
  </details>
  
 ## Current issues
-- Sleep: DarkWake from Normal Sleep [CDN] : due to XHC HDAS/ Using AC (Charge:0%)
-- iMessages and FaceTime
-- HDMI (not tested yet)
-- dGPU: Disabled
-- Airdrop, Handoff 
+- ~~Sleep: DarkWake from Normal Sleep [CDN] : due to XHC HDAS/ Using AC (Charge:0%)~~ Fixed.
+- ~~iMessages and FaceTime~~ Continuity services aren't working.
+- ~~HDMI (not tested yet)~~Fixed.
