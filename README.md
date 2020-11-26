@@ -1,11 +1,8 @@
 # HP Pavilion 15 cs0101TX Hackintosh with OpenCore
 ## Overview
-<details>
  <summary><strong>macOS Big Sur</strong></summary>
  
 ![screenshot](images/Big-Sur-2020-11-26.jpg)
-
- </details>
 
 <details>
  <summary><strong>macOS Catalina</strong></summary>
