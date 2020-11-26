@@ -33,4 +33,4 @@
 ## Current issues
 - ~~Sleep: DarkWake from Normal Sleep [CDN] : due to XHC HDAS/ Using AC (Charge:0%)~~ Fixed.
 - ~~iMessages and FaceTime~~ Continuity services aren't working, waiting for a new version of AirportItlwm.
-- ~~HDMI (not tested yet)~~ Fixed. <details><summary>Fixed</summary>![screenshot](images/HDMI-working.jpg)</details>
+- ~~HDMI (not tested yet)~~ <details><summary>Fixed</summary>![screenshot](images/HDMI-working.jpg)</details>
