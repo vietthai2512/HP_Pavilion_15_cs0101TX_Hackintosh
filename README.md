@@ -10,6 +10,7 @@
 ![screenshot](https://i.imgur.com/5txHbRU.png)
 
  </details>
+ 
 - macOS version: ~~Catalina 10.15.7~~ Big Sur 11.0.1 (20B29)
 - OpenCore version: 0.6.3
 
