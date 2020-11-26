@@ -14,10 +14,7 @@
 - macOS version: ~~Catalina 10.15.7~~ Big Sur 11.0.1 (20B29)
 - OpenCore version: 0.6.3
 
-<details>
-<summary><strong>Hardware Specifications</strong></summary>
-<br>
- 
+## Hardware Specifications 
 | Category | Detail |
 |:----:|:----:|
 | Product name | HP Pavilion - 15-cs0101tx |
@@ -32,10 +29,7 @@
 | Wireless connectivity | Intel® 802.11a/b/g/n/ac (1x1) Wi-Fi® and Bluetooth® 4.2 Combo (Intel® Dual Band Wireless-AC 3168) |
 | Network interface | Integrated 10/100/1000 GbE LAN (Realtek RTL8111) |
 | Expansion slots | 1 multi-format SD media card reader |
-| External ports | 2 USB 3.1 Gen 1 (Data transfer only); 1 HDMI 1.4; 1 headphone/microphone combo; 1 USB 3.1 Type-C™ Gen 1 (Data Transfer Only); 1 RJ-45 |
-
- </details>
- 
+| External ports | 2 USB 3.1 Gen 1 (Data transfer only); 1 HDMI 1.4; 1 headphone/microphone combo; 1 USB 3.1 Type-C™ Gen 1 (Data Transfer Only); 1 RJ-45 | 
 ## Current issues
 - ~~Sleep: DarkWake from Normal Sleep [CDN] : due to XHC HDAS/ Using AC (Charge:0%)~~ Fixed.
 - ~~iMessages and FaceTime~~ Continuity services aren't working.
