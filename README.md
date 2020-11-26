@@ -2,7 +2,7 @@
 ## Overview
  <summary><strong>macOS Big Sur</strong></summary>
  
-![screenshot](images/Big-Sur-2020-11-26.jpg)
+![screenshot](images/Big-Sur-2020-11-26.png)
 
 <details>
  <summary><strong>macOS Catalina</strong></summary>
