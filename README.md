@@ -1,7 +1,19 @@
 # HP Pavilion 15 cs0101TX Hackintosh with OpenCore
 ## Overview
+<details>
+ <summary><strong>macOS Big Sur</strong></summary>
+ 
+![screenshot](images/Big-Sur-2020-11-26.jpg)
+
+ </details>
+
+<details>
+ <summary><strong>macOS Catalina</strong></summary>
+ 
 ![screenshot](https://i.imgur.com/5txHbRU.png)
-- macOS version: Catalina 10.15.7
+
+ </details>
+- macOS version: ~~Catalina 10.15.7~~ Big Sur 11.0.1 (20B29)
 - OpenCore version: 0.6.3
 
 <details>
