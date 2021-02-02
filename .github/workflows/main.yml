@@ -62,5 +62,6 @@ jobs:
           prerelease: true
           bodyFile: ReleaseNotes.md
           artifacts: "EFI.zip"
-          tag: "auto-created"
+          name: "EFI Pre-release"
+          tag: "pre-release"
           token: ${{ secrets.GITHUB_TOKEN }}
