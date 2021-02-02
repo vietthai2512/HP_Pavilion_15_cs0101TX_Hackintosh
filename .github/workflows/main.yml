@@ -11,8 +11,7 @@ on:
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
-env:
-  BUILD_OUTPUT: 'build'
+
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   # This workflow contains a single job called "build"
@@ -40,10 +39,7 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Zip EFI folder
-        run: |
-          cd $BUILD_OUTPUT
-            zip -r EFI.zip EFI
-          cd -
+        run: zip -r EFI.zip EFI
 
       - name: Generate Prerelease Release Notes
         run: |
@@ -65,6 +61,6 @@ jobs:
         with:
           prerelease: true
           bodyFile: ReleaseNotes.md
-          artifacts: "${{ env.BUILD_OUTPUT }}/*.zip"
+          artifacts: "EFI.zip"
           tag: "auto-created"
           token: ${{ secrets.GITHUB_TOKEN }}
