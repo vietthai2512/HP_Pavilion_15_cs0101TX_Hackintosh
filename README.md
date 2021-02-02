@@ -11,8 +11,8 @@
 
  </details>
  
-- macOS version: ~~Catalina 10.15.7~~ Big Sur ~~11.0.1 (20B29)~~ ~~11.1 (20C69)~~ 11.2 (20D64)
-- OpenCore version: ~~0.6.3~~ ~~0.6.4~~ 0.6.5
+- macOS version: ~~Catalina 10.15.7~~ **Big Sur** ~~11.0.1 (20B29)~~ ~~11.1 (20C69)~~ **11.2 (20D64)**
+- OpenCore version: ~~0.6.3~~ ~~0.6.4~~ **0.6.5**
 
 ## Hardware Specifications 
 | Category | Detail |
