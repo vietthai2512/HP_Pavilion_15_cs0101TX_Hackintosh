@@ -28,7 +28,7 @@ jobs:
         run: |
           git fetch --prune --unshallow --tags
           GIT_SHA="$(git rev-parse --short HEAD)"
-          CUR_TAG="$(git tag -l | grep 'alpha\|beta' | tail -1)"
+          CUR_TAG="$(git tag -l | grep 'pre-release' | tail -1)"
           echo "SHORT_SHA=$GIT_SHA" >> $GITHUB_ENV
           if [[ -z $CUR_TAG ]]; then
             echo "OLD_PRE_TAG=NULL" >> $GITHUB_ENV
