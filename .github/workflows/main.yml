@@ -41,7 +41,7 @@ jobs:
       - name: Zip EFI folder
         run: |
           cd $BUILD_OUTPUT
-            zip -r EFI.zip 'EFI'
+            zip -r EFI.zip ../EFI
           cd -
 
       - name: Generate Prerelease Release Notes
