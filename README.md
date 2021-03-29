@@ -15,8 +15,8 @@
 
  </details>
  
-- macOS version: ~~Catalina 10.15.7~~ **Big Sur** ~~11.0.1 (20B29)~~ ~~11.1 (20C69)~~ **11.2 (20D64)**
-- OpenCore version: ~~0.6.3~~ ~~0.6.4~~ ~~0.6.5~~ **0.6.6**
+- macOS version: **Big Sur** **11.2.3 (20D91)**
+- OpenCore version: **0.6.7**
 
 ## Hardware Specifications 
 | Category | Detail |
@@ -34,7 +34,11 @@
 | Network interface | Integrated 10/100/1000 GbE LAN (Realtek RTL8111) |
 | Expansion slots | 1 multi-format SD media card reader |
 | External ports | 2 USB 3.1 Gen 1 (Data transfer only); 1 HDMI 1.4; 1 headphone/microphone combo; 1 USB 3.1 Type-C™ Gen 1 (Data Transfer Only); 1 RJ-45 | 
+
 ## Current issues
 - ~~Sleep: DarkWake from Normal Sleep [CDN] : due to XHC HDAS/ Using AC (Charge:0%)~~ Fixed.
 - ~~iMessages and FaceTime~~ Continuity services aren't working, waiting for a new version of AirportItlwm.
 - ~~HDMI (not tested yet)~~ <details><summary>Fixed</summary>![screenshot](images/HDMI-working.jpg)</details>
+
+## Note
+- Generate your own MLB, SystemSerialNumber, SystemUUID (https://dortania.github.io/OpenCore-Install-Guide/config-laptop.plist/kaby-lake.html#platforminfo)
