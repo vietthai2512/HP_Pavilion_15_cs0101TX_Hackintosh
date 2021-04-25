@@ -4,9 +4,9 @@
  
 ![screenshot](images/Big-Sur-2020-11-26.png)
 
-<summary><strong>OpenCore Boot Menu with background image (since OpenCore 0.6.6)</strong></summary>
+<summary><strong>OpenCore Boot Menu</strong></summary>
  
-![screenshot](images/OpenCore066-background.png)
+![screenshot](images/OpenCore068-background.png)
 
 <details>
  <summary><strong>macOS Catalina</strong></summary>
@@ -16,7 +16,7 @@
  </details>
  
 - macOS version: **Big Sur** **11.2.3 (20D91)**
-- OpenCore version: **0.6.7**
+- OpenCore version: **0.6.8**
 
 ## Hardware Specifications 
 | Category | Detail |
