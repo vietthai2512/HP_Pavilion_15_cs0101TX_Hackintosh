@@ -15,8 +15,8 @@
 
  </details>
  
-- macOS version: **Big Sur** **11.2.3 (20D91)**
-- OpenCore version: **0.6.8**
+- macOS version: **Big Sur** **11.4**
+- OpenCore version: **0.7.2**
 
 ## Hardware Specifications 
 | Category | Detail |
