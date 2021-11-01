@@ -870,7 +870,7 @@
 				<string>IntelBluetoothInjector.kext</string>
 				<key>Comment</key>
 				<string></string>
-				<key>Disabled</key>
+				<key>Enabled</key>
 				<false/>
 				<key>ExecutablePath</key>
 				<string></string>
@@ -1284,7 +1284,9 @@
 	<key>Misc</key>
 	<dict>
 		<key>BlessOverride</key>
-		<array/>
+		<array>
+			<string>\EFI\ubuntu\grubx64.efi</string>
+		</array>
 		<key>Boot</key>
 		<dict>
 			<key>ConsoleAttributes</key>
@@ -1383,7 +1385,7 @@
 			<key>ScanPolicy</key>
 			<integer>0</integer>
 			<key>SecureBootModel</key>
-			<string>Disabled</string>
+			<string>j132</string>
 			<key>Vault</key>
 			<string>Optional</string>
 		</dict>
