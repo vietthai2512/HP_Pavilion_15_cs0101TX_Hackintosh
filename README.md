@@ -1,8 +1,8 @@
 # HP Pavilion 15 cs0101TX Hackintosh with OpenCore
 
 ## Overview
-- macOS version: **Monterey** **12.0.1**
-- OpenCore version: **0.8.1**
+- macOS version: **Monterey** **12.6.1**
+- OpenCore version: **0.8.6**
 
  <summary><strong>macOS Monterey</strong></summary>
 
