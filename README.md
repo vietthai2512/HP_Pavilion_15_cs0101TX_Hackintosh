@@ -1,6 +1,7 @@
 # HP Pavilion 15 cs0101TX Hackintosh with OpenCore
 
 ## Overview
+- **Download the latest zipped EFI [here](https://github.com/vietthai2512/HP_Pavilion_15_cs0101TX_Hackintosh/releases).**
 - macOS version: **Monterey** **12.6.1**
 - OpenCore version: **0.8.6**
 
